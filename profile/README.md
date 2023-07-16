@@ -20,6 +20,8 @@ Below is a list of our currently available tools and their lifecycle status:
 
 * [@mep-agency/next-iubenda](https://github.com/mep-agency/next-iubenda)  
   This NPM package allows you to integrate the Cookie Solution by [Iubenda](https://www.iubenda.com/), the leading provider of privacy, cookie and consent solutions, into [Next.js](https://nextjs.org/) projects. It provides the tools needed to quickly create consent-aware components, while still taking advantage of server-side rendering for the rest of the components.
+* [@mep-agency/local-dev-db](https://github.com/mep-agency/local-dev-db)  
+  This NPM package provides you with a simple CLI to manage a local development database server (MariaDB).
 
 ## ♻️ Deprecated
 
