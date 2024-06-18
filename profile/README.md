@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="150" src="./profile/assets/mep-logo.svg" alt="MEP Srl Logo" />
+  <img width="150" src="./assets/mep-logo.svg" alt="MEP Srl Logo" />
 </div>
 
 ---
@@ -74,7 +74,7 @@ Our support policy is quite simple:
 Open Devs Crew (ODC) is a **decentralized** NFT collection so **there is no "official team" leading it**. Neither our company nor the original founders have any control over what the community will do in the future **until further notice**.
 
 <div align="center">
-  <img width="200" src="./profile/assets/odc-logo.png" alt="Open Devs Crew Logo" />
+  <img width="200" src="./assets/odc-logo.png" alt="Open Devs Crew Logo" />
 </div>
 
 We strongly believe in the [Open Devs Crew](https://opendevs.io) project and we want to support its members as much as possible. That's why will provide ODC holders with **priority on support requests** for any tool maintained by us for free.
